@@ -36,6 +36,7 @@ function setup(){
 
     bird = new Bird(100,100);
 
+    //"system hacked"
 }
 
 function draw(){
